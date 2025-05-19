@@ -1,14 +1,17 @@
 # image-dataset-converter-midas
+
 [MiDaS](https://pytorch.org/hub/intelisl_midas_v2/) support for the image-dataset-converter library. 
+
+**DEPRECATED**
+
+This library has been superceded by the `redis-predict-dp` plugin from the
+[redis](https://github.com/waikato-datamining/image-dataset-converter-redis)
+library in conjunction with Docker images, e.g.,:
+
+https://github.com/waikato-datamining/monocular-depth
 
 
 ## Installation
-
-Via PyPI:
-
-```bash
-pip install image_dataset_converter_midas
-```
 
 The latest code straight from the repository:
 
